@@ -1,5 +1,7 @@
 MosaicChats: Next.js Chat and Relationship Analysis Engine
-MosaicChats is a client-side chat analysis application built with Next.js and React. It provides a suite of tools for in-depth relationship analysis by processing chat log files directly in the browser. This engine transforms textual conversation data into actionable insights on communication patterns, sentiment, and overall relationship dynamics.
+
+
+MosaicChats is a client-side chat analysis application built with Next.js and React. It provides a suite of tools for in-depth relationship analysis by processing chat log files directly in the browser. This engine transforms textual conversation data into actionable insights on communication patterns, sentiment, and overall relationship dynamics. You can find the project at MosaicChats.com
 
 Core Features
 Comprehensive Conversation Analysis: Generates metrics on message count, word frequency, and user activity.
